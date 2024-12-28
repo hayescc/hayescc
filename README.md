@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello!
 
+- I'm currently enrolled in the online Masters of Sciene in Data Science program at Boston University.
+- I've been a software engineer for over ten years. 
+- For the last year, I've been working at Pacific Northwest National Laboratory.
+- I've also worked in the medical device software and non-profit fields.
 <!--
 **hayescc/hayescc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
